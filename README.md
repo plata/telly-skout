@@ -1,3 +1,6 @@
+# :warning: Archived :warning:
+now at https://invent.kde.org/plata/telly-skout
+
 # telly-skout
 A convergent EPG based on Kirigami.
 
